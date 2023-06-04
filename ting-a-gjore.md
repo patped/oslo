@@ -40,6 +40,7 @@
     * Aukistisk sett klokken 17:00 og vanlig konsert klokken 19:00.
 * Rådhuset
   * Rådhusbar (arkedebar)
+  * [Brasilia](https://www.google.com/maps/place/Brasilia+Oslo/@59.912301,10.7310654,17.99z/data=!4m14!1m7!3m6!1s0x46416e7ea1761041:0xe1c8216c37b50c4f!2sDen+Glade+Gris!8m2!3d59.9178541!4d10.7339675!16s%2Fg%2F12mkqy8h6!3m5!1s0x46416f54d30db265:0xbf63e3bf372bd543!8m2!3d59.9127922!4d10.7330062!16s%2Fg%2F11lh6h0h_v?entry=ttu) (brasiliansk steakhouse)
 * Operaen
   * SALT (Badstu, streetfood, bar)
 * Karl Johan
@@ -47,6 +48,9 @@
   * Outland
 * Majorstuen
   * Majorstuen te & kaffe (koselig gammel te og kaffe butikk)
+* Pilestredet / Slottet
+  * [Izakaya](https://www.google.com/maps/place/Izakaya/@59.9182885,10.7392147,17z/data=!3m1!4b1!4m6!3m5!1s0x46416e7c9f5c1d9f:0x5808b6a5a6dd727c!8m2!3d59.9182858!4d10.741795!16s%2Fg%2F1ygjd43g1?entry=ttu) (japansk inpirert spisested)
+  * [Den Glade Gris](https://www.google.com/maps/place/Den+Glade+Gris/@59.9178568,10.7313872,17z/data=!3m1!4b1!4m6!3m5!1s0x46416e7ea1761041:0xe1c8216c37b50c4f!8m2!3d59.9178541!4d10.7339675!16s%2Fg%2F12mkqy8h6?entry=ttu)
 
 ## Komme seg rundt
 
