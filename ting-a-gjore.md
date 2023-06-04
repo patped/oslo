@@ -25,7 +25,7 @@
 * Tøyen / Gamle Oslo
   * [Botanisk Hage](https://www.google.com/maps/place/Botanisk+Hage/@59.9168754,10.7671665,17z/data=!3m1!4b1!4m6!3m5!1s0x46416ffe4c893a45:0xecc6291b2a1c84e1!8m2!3d59.9168727!4d10.7697468!16s%2Fg%2F11g0vzmmky?entry=ttu)
   * [Kampen](https://www.google.com/maps/place/Kampen+park/@59.9135926,10.7797503,16.52z/data=!4m15!1m8!3m7!1s0x46416e577d8d4ccf:0x2e90ddaa3a518264!2sKampen,+0654+Oslo!3b1!8m2!3d59.9129829!4d10.7793964!16s%2Fm%2F05p0tzq!3m5!1s0x46416e5a01cb8887:0xdd2f0fdca1bb4b0e!8m2!3d59.9150065!4d10.7798617!16s%2Fg%2F120yxnyf?entry=ttu) (Koselig gammel bebyggelse i gamle Oslo)
-  * Kruttverket (koselig kafe)
+  * [Kruttverket](https://www.google.com/maps/place/Kruttverket/@59.9050309,10.7991848,17z/data=!3m1!4b1!4m6!3m5!1s0x46416f10e3b70b37:0x3d7f5eea600ad4d9!8m2!3d59.9050282!4d10.8017651!16s%2Fg%2F11p0dbjsrc?entry=ttu) (koselig kafe)
 * Torggata / Youngstorget
   * [Oslo streetfood](https://www.google.com/maps/place/Oslo+Street+Food/@59.9158473,10.7482589,17z/data=!3m1!4b1!4m6!3m5!1s0x46416f47978ccdff:0x5afe540932d127f4!8m2!3d59.9158446!4d10.7508392!16s%2Fg%2F11g__5f1th?entry=ttu)
   * [Tilt](https://www.google.com/maps/place/Tilt/@59.9162015,10.748131,17z/data=!3m1!4b1!4m6!3m5!1s0x46416e6238d91359:0xc909377db10812e8!8m2!3d59.9161988!4d10.7507113!16s%2Fg%2F1q5btld_b?entry=ttu) (arkadebar)
