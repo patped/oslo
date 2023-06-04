@@ -4,18 +4,18 @@ Adresse: [Frysjaveien 27B](https://www.google.com/maps/place/Frysjaveien+27B,+08
 
 ## Komme seg til leiligheten fra Oslo S
 
-Det enkleste er å ta toget til [Kjelsås Stasjon](https://www.google.com/maps/place/Kjelsås+Stasjon/@59.9663754,10.7805174,17z/data=!3m1!4b1!4m6!3m5!1s0x464171e7f29550ed:0xc48ace6956def288!8m2!3d59.9663727!4d10.7830977!16s%2Fg%2F11tjbvggcy?entry=ttu). Søk på VY-appen Oslo S til Kjelsås Stasjon så finner du avgangene. Fra Kjelsås stasjon er det 10 minutter [å gå til leiligheten](https://www.google.com/maps/dir/Kjelsås+Stasjon,+Kjelsåsveien+141,+0491+Nordre+Aker/Frysjaveien+27B,+0884+Oslo/@59.9647487,10.7662008,15z/am=t/data=!3m1!4b1!4m15!4m14!1m5!1m1!1s0x464171e7f29550ed:0xc48ace6956def288!2m2!1d10.7830977!2d59.9663727!1m5!1m1!1s0x464171e4716eccc7:0x43ad64f7d39a5306!2m2!1d10.7704397!2d59.9635075!3e2!5i1?entry=ttu). Alternativt kan man ta [54 bussen fra jernbanetorget til Brekkehagan](https://www.google.com/maps/dir/Jernbanetorget,+Oslo/Frysjaveien+27B,+0884+Oslo/@59.938494,10.6987469,13z/data=!4m14!4m13!1m5!1m1!1s0x46416e8a00990c55:0x614ce77534482f6b!2m2!1d10.7513111!2d59.9121003!1m5!1m1!1s0x464171e4716eccc7:0x43ad64f7d39a5306!2m2!1d10.7704397!2d59.9635075!3e3?entry=ttu).
+Det enkleste er å ta toget til [Kjelsås Stasjon](https://www.google.com/maps/place/Kjelsås+Stasjon/@59.9663754,10.7805174,17z/data=!3m1!4b1!4m6!3m5!1s0x464171e7f29550ed:0xc48ace6956def288!8m2!3d59.9663727!4d10.7830977!16s%2Fg%2F11tjbvggcy?entry=ttu). Søk på VY-appen Oslo S til Kjelsås Stasjon så finner du avgangene. Fra Kjelsås stasjon er det 10 minutter [å gå til leiligheten](https://www.google.com/maps/dir/Kjelsås+Stasjon,+Kjelsåsveien+141,+0491+Nordre+Aker/Frysjaveien+27B,+0884+Oslo/@59.9647487,10.7662008,15z/am=t/data=!3m1!4b1!4m15!4m14!1m5!1m1!1s0x464171e7f29550ed:0xc48ace6956def288!2m2!1d10.7830977!2d59.9663727!1m5!1m1!1s0x464171e4716eccc7:0x43ad64f7d39a5306!2m2!1d10.7704397!2d59.9635075!3e2!5i1?entry=ttu). OBS! Det beste er å betale toget med ruter-appen. Alternativt kan man ta [54 bussen fra jernbanetorget til Brekkehagan](https://www.google.com/maps/dir/Jernbanetorget,+Oslo/Frysjaveien+27B,+0884+Oslo/@59.938494,10.6987469,13z/data=!4m14!4m13!1m5!1m1!1s0x46416e8a00990c55:0x614ce77534482f6b!2m2!1d10.7513111!2d59.9121003!1m5!1m1!1s0x464171e4716eccc7:0x43ad64f7d39a5306!2m2!1d10.7704397!2d59.9635075!3e3?entry=ttu).
 
-## Oppsumeringer
+## Oppsummeringer
 
-### Oppsumering av nøkler
+### Oppsummering av nøkler
 
 * Blå brikke for utgangsdør, koden er 7712
 * Liten nøkkel til postkasse
 * "Vanlig" nøkkel til inngangsdør
 * "Rar" nøkkel trenger dere ikke tenke på.
 
-### Oppsumering av elektronikk
+### Oppsummering av elektronikk
 
 * Chromecast heter "TV".
 * WiFi heter Get-A40F40. Passord: ljz3umywqz

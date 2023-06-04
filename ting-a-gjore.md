@@ -1,6 +1,6 @@
 # Ting å gjøre
 
-## Oppsumeringer
+## Oppsummeringer
 
 ### Oppsummering av å komme seg rundt
 
