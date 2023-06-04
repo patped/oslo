@@ -29,13 +29,13 @@
 * Torggata / Youngstorget
   * [Oslo streetfood](https://www.google.com/maps/place/Oslo+Street+Food/@59.9158473,10.7482589,17z/data=!3m1!4b1!4m6!3m5!1s0x46416f47978ccdff:0x5afe540932d127f4!8m2!3d59.9158446!4d10.7508392!16s%2Fg%2F11g__5f1th?entry=ttu)
   * [Tilt](https://www.google.com/maps/place/Tilt/@59.9162015,10.748131,17z/data=!3m1!4b1!4m6!3m5!1s0x46416e6238d91359:0xc909377db10812e8!8m2!3d59.9161988!4d10.7507113!16s%2Fg%2F1q5btld_b?entry=ttu) (arkadebar)
-  * Prindsens Hage (koselig beer garden som de også selger mat)
+  * [Prindsens Hage](https://www.google.com/maps/place/Prindsen+Hage/@59.9145481,10.7530186,17z/data=!3m1!4b1!4m6!3m5!1s0x46416e6108304397:0x75dea3f7971ed3fa!8m2!3d59.9145454!4d10.7555989!16s%2Fg%2F11g9q33rwt?entry=ttu) (koselig beer garden som de også selger mat)
   * Strøget (Koselig smug med god mat.)
   * Eldorado Esport
 * Vulkan
-  * [Hrimnir Ramen](https://www.google.com/maps/dir/Frysjaveien+27B,+0884+Oslo/Storo+Storsenter,+Vitaminveien+7,+9,+0485+Oslo/@59.9631633,10.7761075,15.51z/data=!4m15!4m14!1m5!1m1!1s0x464171e4716eccc7:0x43ad64f7d39a5306!2m2!1d10.7704397!2d59.9635075!1m5!1m1!1s0x46416e18689debb1:0x965ef268464b74cf!2m2!1d10.7746465!2d59.9471431!3e3!5i1?entry=ttu) (Beste ramen i byen)
+  * [Hrimnir Ramen](https://www.google.com/maps/place/Hrimnir+Ramen/@59.921379,10.7488583,17z/data=!3m1!4b1!4m6!3m5!1s0x46416e87e1578d73:0x734b7e1ab5ec71b1!8m2!3d59.9213763!4d10.7514386!16s%2Fg%2F11fd4jl1wr?entry=ttu) (Beste ramen i byen)
   * House of Nerds
-  * [Kjærlighetstien](https://www.google.com/maps/dir/Frysjaveien+27B,+0884+Oslo/Storo+Storsenter,+Vitaminveien+7,+9,+0485+Oslo/@59.9631633,10.7761075,15.51z/data=!4m15!4m14!1m5!1m1!1s0x464171e4716eccc7:0x43ad64f7d39a5306!2m2!1d10.7704397!2d59.9635075!1m5!1m1!1s0x46416e18689debb1:0x965ef268464b74cf!2m2!1d10.7746465!2d59.9471431!3e3!5i1?entry=ttu) (Koselig kort tur igjennom en kolonihage)
+  * [Kjærlighetstien](https://www.google.com/maps/place/59°55'17.8%22N+10°45'02.1%22E/@59.9216029,10.7496954,18z/data=!3m1!4b1!4m4!3m3!8m2!3d59.921602!4d10.750592?entry=ttu) (Koselig kort tur igjennom en kolonihage)
   * Se Frank Znort. Konsert, søndager på Blå (gratis)
     * Aukistisk sett klokken 17:00 og vanlig konsert klokken 19:00.
 * Rådhuset
